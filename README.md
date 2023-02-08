@@ -1,2 +1,3 @@
-# OpenCV-Notes
-My OpenCV Notes ~
+# My OpenCV Study Notes
+
+🖥️ 👀

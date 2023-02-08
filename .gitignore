@@ -1,0 +1,7 @@
+# folders anywhere
+**/data/
+**/.venv/
+**/__pycache__/
+
+# files anywhere 
+**/poetry.lock
