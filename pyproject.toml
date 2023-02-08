@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "opencv-notes"
+version = "0.1.0"
+description = ""
+authors = ["Hajar Razip <mshajarrazip@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "~3.10"
+numpy = "^1.24.2"
+matplotlib = "^3.6.3"
+ipykernel = "^6.21.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
