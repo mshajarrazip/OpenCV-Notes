@@ -14,4 +14,8 @@ so I also used images from various artists that I really like. If you'd like to 
 here is where you can find them ❤️:
 
 - [@ptitsatart](https://twitter.com/ptitsatart)
+    - [ptitsatart1.jpg](https://pbs.twimg.com/media/Fh2cvsrXkAEv8ua.jpg)
 - [@wavesheep](https://twitter.com/wavesheep)
+    - [wavesheep1.jpg](https://www.deviantart.com/wavesheep/art/Hobbit-King-of-Dale-441989277)
+- [@phobs](https://twitter.com/phobs)
+    - [phobs1.jpeg](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/55caff1e-739d-41f4-b696-1a12eedda1f4/d5ce5j6-6799c1f9-d22e-4d64-a399-f60e1e8281bc.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU1Y2FmZjFlLTczOWQtNDFmNC1iNjk2LTFhMTJlZWRkYTFmNFwvZDVjZTVqNi02Nzk5YzFmOS1kMjJlLTRkNjQtYTM5OS1mNjBlMWU4MjgxYmMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6L9ChxWKbMTnEuwclWd6yPrZHgPBGe0-GPdgNwTeoDQ)

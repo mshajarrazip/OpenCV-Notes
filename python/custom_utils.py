@@ -6,19 +6,20 @@ import matplotlib.pyplot as plt
 import logging
 
 
-def show_image(img, title=None, scale=1, ax=None):
+def show_image(img, title=None, scale=1, ax=None, imshow_args = {}):
+
     figsize = (img.shape[1] * scale/100, img.shape[0] * scale/100)
     logging.info(f"Showing image ... ({' x '.join([str(d) for d in figsize])})")
     if ax is None:
         fig, ax = plt.subplots(1, 1, figsize=figsize)
-        ax.imshow(img)
+        ax.imshow(img, **imshow_args)
         ax.xaxis.set_ticklabels([])
         ax.yaxis.set_ticklabels([])
         if title is not None:
             ax.set_title(title)
         plt.show()
     else:
-        ax.imshow(img)
+        ax.imshow(img, **imshow_args)
         ax.xaxis.set_ticklabels([])
         ax.yaxis.set_ticklabels([])
         if title is not None:
@@ -27,7 +28,7 @@ def show_image(img, title=None, scale=1, ax=None):
 def load_image_and_show(path: str) -> Tuple[
     int, int, np.ndarray, np.ndarray, np.ndarray
 ]:
-    img = cv.imread('../data/wavesheep1.jpg')
+    img = cv.imread(path)
     img_rgb = cv.cvtColor(img, cv.COLOR_BGR2RGB)
     img_gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
 
