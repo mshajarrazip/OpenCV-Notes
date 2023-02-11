@@ -9,12 +9,17 @@
 ## Source of Images
 
 Images displayed in the notebooks are from various sources, including the ones listed 
-[above](#resources-ive-used). I'm also a great art fan ( and actually quite an artist myself ),
+[above](#resources-ive-used).
+
+- [redball.jpeg](https://media.istockphoto.com/id/172290409/photo/a-shiny-red-ball-with-shadow-on-a-white-background.jpg?b=1&s=170667a&w=0&k=20&c=utktwm05snCv5S5f7j2pRW3FJwrhE42khqkedd-Xw5w=)
+
+I'm also a great art fan ( and actually quite an artist myself ),
 so I also used images from various artists that I really like. If you'd like to support them,
 here is where you can find them ❤️:
 
 - [@ptitsatart](https://twitter.com/ptitsatart)
     - [ptitsatart1.jpg](https://pbs.twimg.com/media/Fh2cvsrXkAEv8ua.jpg)
+    - [ptitsatart2.jpg](https://twitter.com/ptitsatart/status/1540354575936491520?s=20&t=3Nbb4d9JCRYvgznzyBS3wg)
 - [@wavesheep](https://twitter.com/wavesheep)
     - [wavesheep1.jpg](https://www.deviantart.com/wavesheep/art/Hobbit-King-of-Dale-441989277)
 - [@phobs](https://twitter.com/phobs)
