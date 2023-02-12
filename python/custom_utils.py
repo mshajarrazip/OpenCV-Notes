@@ -27,7 +27,7 @@ def show_image(img, title=None, scale=1, ax=None, imshow_args = {}, show_ticks =
         if title is not None:
             ax.set_title(title)
 
-def load_image_and_show(path: str, scale: float = 1) -> Tuple[
+def load_image_and_show(path: str, scale: float = 1, show_image = True) -> Tuple[
     int, int, np.ndarray, np.ndarray, np.ndarray
 ]:
     img = cv.imread(path)
@@ -36,16 +36,17 @@ def load_image_and_show(path: str, scale: float = 1) -> Tuple[
 
     height, width = img.shape[:2]
     # show_image(cv.cvtColor(img_gray, cv.COLOR_GRAY2RGB))
-    _, ax = plt.subplots(1, 2, figsize=(width*2*scale/100, height*scale/100))
+    if show_image:
+        _, ax = plt.subplots(1, 2, figsize=(width*2*scale/100, height*scale/100))
 
-    imgs = [img_rgb, cv.cvtColor(img_gray, cv.COLOR_GRAY2RGB)]
-    for i, ax in enumerate(ax):
-        
-        show_image(imgs[i], ax=ax)
+        imgs = [img_rgb, cv.cvtColor(img_gray, cv.COLOR_GRAY2RGB)]
+        for i, ax in enumerate(ax):
+            
+            show_image(imgs[i], ax=ax)
 
-        ax.xaxis.set_ticklabels([])
-        ax.yaxis.set_ticklabels([])
+            ax.xaxis.set_ticklabels([])
+            ax.yaxis.set_ticklabels([])
 
-    plt.show()
+        plt.show()
 
     return height, width, img, img_rgb, img_gray
