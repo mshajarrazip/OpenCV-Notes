@@ -12,6 +12,8 @@ Images displayed in the notebooks are from various sources, including the ones l
 [above](#resources-ive-used).
 
 - [redball.jpeg](https://media.istockphoto.com/id/172290409/photo/a-shiny-red-ball-with-shadow-on-a-white-background.jpg?b=1&s=170667a&w=0&k=20&c=utktwm05snCv5S5f7j2pRW3FJwrhE42khqkedd-Xw5w=)
+- [redball2.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kreedon.com%2Ftypes-of-cricket-balls%2F&psig=AOvVaw0_Ro1LMq6g3hfABWcT9h6M&ust=1676345572153000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjN0ITIkf0CFQAAAAAdAAAAABAG)
+- [redball3.jpeg](https://golfstead.com/wp-content/uploads/2022/05/image3.jpg)
 
 I'm also a great art fan ( and actually quite an artist myself ),
 so I also used images from various artists that I really like. If you'd like to support them,
